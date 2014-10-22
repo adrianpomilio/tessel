@@ -24,6 +24,8 @@
   },
   "homepage": "https://github.com/adrianpomilio/tessel",
   "dependencies": {
-    "express.io": "^1.1.13"
+    "express.io": "^1.1.13",
+    "nodejs-websocket": "^1.0.0",
+    "servo-pca9685": "^0.1.3"
   }
 }
